@@ -1,3 +1,5 @@
+
+#This project creates a password generator using Python's random and string modules for generating random passwords & for the GUI a basic tkinter is used.
 import tkinter as tk
 import random
 import string
